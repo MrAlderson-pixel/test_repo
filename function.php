@@ -1,4 +1,4 @@
 <?php
     return function (){
-      echo 'merge-branch';
+      echo 'merge-branch-1';
     };
